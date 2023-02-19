@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Greenlizz
 - 👀 I’m interested in web development and cannot wait to improve my skills.
 - 🌱 I’m currently learning SQL  in college and C++ on my own.
-- 💞️ I’m looking to collaborate on multiple project that involved HTML/ CSS and Php
+- 💞️ I’m looking to collaborate on multiple project that involved HTML/ CSS Javascript and Php
 - 📫 How to reach me: annelise.celma@gmail.com
 
 <!---
