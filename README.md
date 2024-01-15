@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anneliseCelma
 - 👀 I’m interested in programming and web development and cannot wait to improve my skills.
-- 💞️ I’m looking to collaborate on multiple project that involved Javascript and Php
+- 💞️ I’m looking to collaborate on multiple projects
 - 📫 How to reach me: annelise.celma@gmail.com
 
 <!---
