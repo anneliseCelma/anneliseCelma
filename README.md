@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anneliseCelma
 - 👀 I’m interested in programming and web development and cannot wait to improve my skills.
 - 💞️ I’m looking to collaborate on multiple projects
-- 📫 How to reach me: annelise.celma@gmail.com
 
 <!---
 Greenlizz/Greenlizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
